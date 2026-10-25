@@ -20,5 +20,50 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "중앙도서관": {
+      "style": "stone",
+      "wall": "#a8a6a6",
+      "glass": "#24465c",
+      "frame": "#7a858e"
+    },
+    "예술ㆍ체육대학1": {
+      "style": "stone",
+      "wall": "#cfccc4",
+      "glass": "#4f5560",
+      "frame": "#979899"
+    },
+    "AI공학관": {
+      "style": "ribbon",
+      "wall": "#d4d6da",
+      "glass": "#354142",
+      "frame": "#67777f"
+    },
+    "제2학생생활관": {
+      "style": "dorm",
+      "wall": "#e1e4e8",
+      "glass": "#5a82a7",
+      "frame": "#c9d2d0"
+    },
+    "반도체대학": {
+      "style": "ribbon",
+      "wall": "#ded3d1",
+      "glass": "#4d7079",
+      "frame": "#868a90"
+    },
+    "공과대학1": {
+      "style": "concrete",
+      "wall": "#dadde0",
+      "glass": "#2b4a5c",
+      "frame": "#c6a7aa"
+    },
+    "가천관": {
+      "style": "glass",
+      "wall": "#e8e9ea",
+      "glass": "#4a6f88",
+      "frame": "#d6d7d6"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
